@@ -1,0 +1,4 @@
+.header .header-nav .nav__item:not(:last-child)::after,
+.header .header-nav .nav__link {
+    color: #fff !important;
+}

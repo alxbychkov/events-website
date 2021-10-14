@@ -1,0 +1,28 @@
+Host: test7.dokaim.beget.tech
+Date: 2021-05-19 09:55:35
+Module: 
+0
+    AddMessage2Log
+	/home/d/dokaim/test7.dokaim.beget.tech/public_html/local/ajax/subscribe.php:95
+----------
+Host: test7.dokaim.beget.tech
+Date: 2021-05-19 09:55:36
+Module: 
+0
+    AddMessage2Log
+	/home/d/dokaim/test7.dokaim.beget.tech/public_html/local/ajax/subscribe.php:95
+----------
+Host: test7.dokaim.beget.tech
+Date: 2021-05-19 09:56:05
+Module: 
+0
+    AddMessage2Log
+	/home/d/dokaim/test7.dokaim.beget.tech/public_html/local/ajax/subscribe.php:95
+----------
+Host: test7.dokaim.beget.tech
+Date: 2021-05-19 12:40:48
+Module: 
+Неверное подтверждение пароля.<br>
+    AddMessage2Log
+	/home/d/dokaim/test7.dokaim.beget.tech/public_html/local/ajax/subscribe.php:75
+----------
